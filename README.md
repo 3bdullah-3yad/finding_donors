@@ -1,7 +1,7 @@
 # finding_donors
 
 ### This project from the cross-skilling ML course of Udacity.
-### Note: The report.HTML file is an HTML export of the project notebook. This file would be needed just for project evaluation on Udacity, so don't care about it.
+
 ### Be careful: you must include visuals.py supplementary visualization code file in 'C:\Users\__Ayad__' to be imported and avoid any error if you want to run the code on your local machine. (__Ayad__) here is the user name on your own PC.
 
 ## Description
